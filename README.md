@@ -1,3 +1,5 @@
+CREDIT To :- https://github.com/developerforce/Force.com-Toolkit-for-PHP
+
 Force.com Toolkit for PHP
 =========================
 
