@@ -1,18 +1,7 @@
 {
     "name": "dhrumiladenzo/force.com-toolkit-for-php-v2",
     "description": "A wrapper for the Force.com Web Services SOAP API",
-    "autoload": {
-        "classmap": [
-           "soapclient"
-        ]
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-main": "1.0.x-dev"
-        }
-    },
     "require": {
-    "php": "^7.4"
-    },
-    "minimum-stability": "dev-main"
+        "php": ">=7.4"
+    }
 }
