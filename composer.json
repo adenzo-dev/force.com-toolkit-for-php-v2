@@ -1,7 +1,6 @@
 {
     "name": "dhrumiladenzo/force.com-toolkit-for-php-v2",
     "description": "A wrapper for the Force.com Web Services SOAP API",
-    "license": "BSD-3-Clause",
     "autoload": {
         "classmap": [
            "soapclient"
